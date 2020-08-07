@@ -1,1 +1,1 @@
-PHP Syntax
+PHP Function
